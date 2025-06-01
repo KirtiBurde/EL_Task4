@@ -76,3 +76,7 @@ It will redirect the user to the next page where the detailed analysis of sales 
 3. Country-Level Focus: U.S. and Canada are the strongest markets. Explore expansion or deeper penetration in other countries.
 
 4. Pricing Strategy Success: Average sales price remains high while units sold targets are achieved, suggesting a well-balanced pricing model.
+
+
+Slide 2: Detailed Sales analysis
+link()
