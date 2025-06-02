@@ -82,4 +82,7 @@ Slide 2: Detailed Sales analysis
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide2.png)
 
 Slide 3: Detailed Product Analysis
+link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide3.png)
+
+Slide 4: Detailed Profit Analysis
 link(
