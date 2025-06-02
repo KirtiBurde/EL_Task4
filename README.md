@@ -79,4 +79,7 @@ It will redirect the user to the next page where the detailed analysis of sales 
 
 
 Slide 2: Detailed Sales analysis
-link()
+link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide2.png)
+
+Slide 3: Detailed Product Analysis
+link(
