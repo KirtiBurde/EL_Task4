@@ -81,7 +81,9 @@ Actionable Insights:
 
 
 **Slide 2: Detailed Sales analysis**
+
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide2.png)
+
 Explanation:This Power BI dashboard titled "Sales Analysis" presents multiple visualizations summarizing sales data across various dimensions such as time, country, product, segment, and discount bands. Here's an explanation of each visual and key insights:
 
 
@@ -104,8 +106,6 @@ High discounts result in the lowest sales (only 7.65%).
 Conclusion:
 Moderate discounting (Medium) seems to be most effective for increasing units sold. Deep discounts (High) do not significantly boost sales volume and might be unnecessary.
 
-
----
 
 2. Sum of Sales by Year and Month (Line Chart)
 
@@ -144,9 +144,6 @@ Some products like VTT and Velo have more balanced distribution.
 Conclusion:
 Some products have regional popularity. This can inform inventory and marketing strategies in specific countries.
 
-
----
-
 4. Sum of Sales by Segment and Country (Stacked Bar Chart)
 
 What it shows:
@@ -165,8 +162,6 @@ Conclusion:
 Focus on Government and Small Business segments may yield higher returns, especially in the USA and Canada markets.
 
 
----
-
 5. Button – "Click for Sales Analysis"
 
 Likely a navigation button to switch between report pages or perform a drill-through for deeper analysis.
@@ -174,7 +169,9 @@ Likely a navigation button to switch between report pages or perform a drill-thr
 
 
 **Slide 3: Detailed Product Analysis**
+
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide3.png)
+
 Explanation: This Power BI dashboard is titled "Product Analysis" and focuses on analyzing profit, sales, and units sold by product and country. It helps identify which products perform best in terms of revenue and profitability, and where improvements may be needed.
 
 1. Sum of Profit by Product and Country (Stacked Column Chart)
@@ -230,7 +227,9 @@ Likely a navigation button to explore more detailed profit-related metrics or dr
 
 
 **Slide 4: Detailed Profit Analysis**
+
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide4.png)
+
 Explanation: This Power BI dashboard is titled “Profit Analysis” and focuses on understanding how profit varies across different segments, countries, and products. The goal is to identify what drives profitability and where losses or inefficiencies occur.
 
 1. Sum of Profit by Segment (Bar Chart)
