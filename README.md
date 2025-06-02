@@ -67,7 +67,7 @@ Indicates potential pricing or cost efficiency strategies working in favor.
 
 It will redirect the user to the next page where the detailed analysis of sales is presented.
 
-🔍 Actionable Insights:
+Actionable Insights:
 
 1. Top-Performing Products: Paseo and Carretera should receive investment for promotions and stock.
 
