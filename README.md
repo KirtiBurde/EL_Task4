@@ -80,9 +80,11 @@ It will redirect the user to the next page where the detailed analysis of sales 
 
 Slide 2: Detailed Sales analysis
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide2.png)
+Explanation:
+
 
 Slide 3: Detailed Product Analysis
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide3.png)
 
 Slide 4: Detailed Profit Analysis
-link(
+link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide4.png)
