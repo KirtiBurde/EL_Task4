@@ -1,6 +1,8 @@
 # EL_Task4
 **Slide 1: Dashboard of Bicycle Sales Data**
+
 link(https://github.com/KirtiBurde/EL_Task4/blob/main/Dashboard_Slide1.png)
+
 Explanation:
 This dashboard is designed to provide a high-level overview of bicycle sales performance across countries, products, and customer segments. It combines KPI tracking, product-level analysis, and time-based trends to help assess overall business health.
 
